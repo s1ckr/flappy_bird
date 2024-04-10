@@ -1,2 +1,2 @@
 # flappy_bird
-Variation of Flappy Bird (python, tkinter)
+Variation of Flappy Bird (python)
